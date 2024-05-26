@@ -5,10 +5,12 @@
 
 ## 2. Get REtool from here:
 
-[REtool - Modding tool for modding RE Engine games](https://www.patreon.com/posts/36746173)
-[file lists](https://github.com/Ekey/REE.PAK.Tool/tree/main/Projects)
-[video](https://youtu.be/Br7QKOfltro?t=159)
+### Links
+* [REtool - Modding tool for modding RE Engine games](https://www.patreon.com/posts/36746173)
+* [file lists](https://github.com/Ekey/REE.PAK.Tool/tree/main/Projects)
+* [video](https://youtu.be/Br7QKOfltro?t=159)
 
+### Steps
 - Download the REtool
 - Download the File List for the game
 - Extract the RETool and put the file list inside its directory
